@@ -1,4 +1,4 @@
-# TankWar Game
+# Tank-War Game
   This tank-war game is based on C++, together with a graphic library called "sfml". The screenshot of the overall program turns out to be like this:
 
 <div align=center><img width="400" height="400" src="https://github.com/Kobeyond/TankWar-Game/blob/master/image-folder/screenshot.png"/></div>
